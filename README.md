@@ -4,7 +4,7 @@ Welcome to the Employee Payroll Tracker, a simple web-based application to track
 
 ## Disclosure
 
-This ChatGPT was used to create a mock README for a general outline of a README file. I then modified it to fit my needs for this challenge.
+ChatGPT was used to create a mock README for a general outline of a README file. I then modified it to fit my needs for this challenge.
 
 ## Table of Contents
 

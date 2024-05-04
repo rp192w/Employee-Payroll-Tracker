@@ -56,4 +56,8 @@ After the employee list is displayed, the console provides additional computed a
 
 ## Screenshot of Application
 
+![Application Screenshot](./Assets/Screenshot.png)
+
 ## Link to Deployed Application
+
+[Link to Deployed Application](https://rp192w.github.io/Employee-Payroll-Tracker)
